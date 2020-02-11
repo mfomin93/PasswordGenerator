@@ -8,3 +8,5 @@ This generator creates a random password from 0-50 charecters. A slider is imple
 There is also a copy to clipboard button that copys it so you can paste it right away.
 
 Screenshot of Password Generator is included in the repo.
+
+Link to the project: https://mfomin93.github.io/PasswordGenerator/
